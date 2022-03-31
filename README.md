@@ -434,9 +434,9 @@ Note: Many systems and tools can be used for provisioning (e.g. Ansible). This i
 
 ## More Infra related projects
 
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/devops-resources"><img src="images/devops_resources.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
 
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
